@@ -1,6 +1,6 @@
 {
   "name": "@ruchiralk/chat-bot-com",
-  "version": "1.0.15",
+  "version": "1.0.17",
   "description": "A customizable chatbot UI component for React",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -40,16 +40,16 @@
     "ui",
     "customizable"
   ],
-  "author": "Your Name",
+  "author": "Ruchira Kaluarachchi",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/your-repo.git"
+    "url": "https://github.com/ruchiralkm/Chatbot-NPM-Package"
   },
   "bugs": {
     "url": "https://github.com/yourusername/your-repo/issues"
   },
-  "homepage": "https://github.com/yourusername/your-repo#readme",
+  "homepage": "https://chatbot-demo-live.vercel.app/",
   "dependencies": {
     "react-icons": "^5.5.0"
   }
